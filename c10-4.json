@@ -9,6 +9,22 @@
     "ApplovinNative": "999999",
     "app1_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
     "app1_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
+    "app2_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
+    "app2_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
+    "app3_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
+    "app3_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
+    "app4_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
+    "app4_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
+    "app5_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
+    "app5_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
+    "app6_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
+    "app6_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    
     "modeads": true,
     "RatingActive": true
   }
