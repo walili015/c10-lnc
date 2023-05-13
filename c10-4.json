@@ -16,14 +16,14 @@
     "app3_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
     "app3_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
     
-    "app4_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
-    "app4_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    "app4_img": "",
+    "app4_URL": "",
     
-    "app5_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
-    "app5_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    "app5_img": "",
+    "app5_URL": "",
     
-    "app6_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
-    "app6_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
+    "app6_img": "",
+    "app6_URL": "",
     
     "modeads": true,
     "RatingActive": true
