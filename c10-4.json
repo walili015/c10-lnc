@@ -9,7 +9,7 @@
     "ApplovinNative": "999999",
     "app1_img": "https://magical-meerkat-6aca95ss.netlify.app/app1.png",
     "app1_URL": "https://play.google.com/store/apps/details?id=com.tdxstudio.teardown",
-    "modeads": false,
+    "modeads": true,
     "RatingActive": true
   }
 }
